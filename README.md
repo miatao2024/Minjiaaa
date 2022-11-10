@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-👋 Hi, I’m @Minjiaaa
-👀 I’m interested in Software Development.
-🌱 I’m currently learning Spring Cloud Microservice Architecture.
-💞️ I’m looking to collaborate on web development.
-📫 How to reach me : minjiatao@gmail.com
+- 👋 Hi, I’m @Minjiaaa
+- 👀 I’m interested in Software Development.
+- 🌱 I’m currently learning Spring Cloud Microservice Architecture.
+- 💞️ I’m looking to collaborate on web development.
+- 📫 How to reach me : minjiatao@gmail.com
