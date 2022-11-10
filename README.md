@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 👋 Hi, I’m @Minjiaaa
-- 👀 I’m interested in Software Development.
+- 👋 Hi, I’m @Minjiaaa, currently a MSCS student @NEU SV.
+- 👀 I’m interested in Software Development and looking for 2023 Summer Internships.
 - 🌱 I’m currently learning Spring Cloud Microservice Architecture.
 - 💞️ I’m looking to collaborate on web development.
 - 📫 How to reach me : minjiatao@gmail.com
