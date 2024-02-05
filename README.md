@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 👋 Hi, I’m Minjia, currently a MSCS student @NEU SV since 22Fall.
-- 🤔 I’m actively looking for Software Development / Data Analyst internships in 2023 Summer.
+- 👋 Hi, I’m Mia.
+- 🤔 I’m actively looking for Software Development internships in 2024 Fall.
 - 🌱 I’m currently learning Spring Cloud Microservices.
 - 👯 I’m looking to collaborate on web development. 
-- 📫 How to reach me : minjiatao@gmail.com
+- 📫 How to reach me : tao.mi@northeastern.edu.
